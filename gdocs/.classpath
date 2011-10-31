@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="lib" path="/home/xes/Android/platform-tools/librerias/google-api-java/google-api-client-1.5.0-beta.jar"/>
+	<classpathentry kind="lib" path="/home/xes/Android/platform-tools/librerias/google-api-java/google-api-client-extensions-1.5.0-beta.jar"/>
+	<classpathentry kind="lib" path="/home/xes/Android/platform-tools/librerias/google-api-java/google-api-client-extensions-android2-1.5.0-beta.jar"/>
+	<classpathentry kind="lib" path="/home/xes/Android/platform-tools/librerias/google-api-java/google-http-client-1.5.0-beta.jar"/>
+	<classpathentry kind="lib" path="/home/xes/Android/platform-tools/librerias/google-api-java/google-http-client-extensions-1.5.0-beta.jar"/>
+	<classpathentry kind="lib" path="/home/xes/Android/platform-tools/librerias/google-api-java/google-http-client-extensions-android2-1.5.0-beta.jar"/>
+	<classpathentry kind="lib" path="/home/xes/Android/platform-tools/librerias/google-api-java/google-oauth-client-1.5.0-beta.jar"/>
+	<classpathentry kind="lib" path="/home/xes/Android/platform-tools/librerias/google-api-java/google-oauth-client-extensions-1.5.0-beta.jar"/>
+	<classpathentry kind="lib" path="/home/xes/Android/platform-tools/librerias/google-api-java/dependencies/guava-r09.jar"/>
+	<classpathentry kind="lib" path="/home/xes/Android/platform-tools/librerias/google-api-java/dependencies/httpclient-4.0.3.jar"/>
+	<classpathentry kind="lib" path="/home/xes/Android/platform-tools/librerias/google-api-java/dependencies/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/xes/Android/platform-tools/librerias/google-api-java/dependencies/jackson-core-asl-1.6.7.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
